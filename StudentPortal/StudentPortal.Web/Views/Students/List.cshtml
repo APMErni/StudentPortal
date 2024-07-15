@@ -18,9 +18,7 @@
     <table class="table table-sm table-striped table-hover table-bordered align-middle">
         <thead>
             <tr>
-                <th>
-                    Id
-                </th>
+                <th>Id</th>
                 <th>Name</th>
                 <th>Email</th>
                 <th>Phone</th>
@@ -34,13 +32,15 @@
             {
                 <tr>
                     <td>@student.Id</td>
-                    <td>@student.Name</td>
-                    <td style="overflow:hidden; overflow-wrap:break-word;word-break;max-width:100px;">@student.Email</td>
+                    <td class="text-wrap">@student.Name</td>
+                    <td class="text-break">@student.Email</td>
                     <td>@student.Phone</td>
                     <td>@student.Program</td>
-                    <td>
-                        <a class="btn btn-outline-primary btn-sm" asp-controller="Students" asp-action="Edit" asp-route-id="@student.Id">Edit</a>
-                        <a class="btn btn-outline-danger btn-sm" asp-controller="Students" asp-action="Delete" asp-route-id="@student.Id">Delete</a>
+                    <td class="text-center align-middle">
+                        <div class="btn-group">
+                            <a class="btn btn-outline-primary btn-sm" asp-controller="Students" asp-action="Edit" asp-route-id="@student.Id">Edit</a>
+                            <a class="btn btn-outline-danger btn-sm" asp-controller="Students" asp-action="Delete" asp-route-id="@student.Id">Delete</a>
+                        </div>
                     </td>
                 
                 </tr>

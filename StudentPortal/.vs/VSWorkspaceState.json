@@ -3,6 +3,8 @@
     "",
     "\\StudentPortal.Web",
     "\\StudentPortal.Web\\Controllers",
+    "\\StudentPortal.Web\\Views",
+    "\\StudentPortal.Web\\Views\\Shared",
     "\\StudentPortal.Web\\Views\\Students"
   ],
   "SelectedNode": "\\StudentPortal.sln",

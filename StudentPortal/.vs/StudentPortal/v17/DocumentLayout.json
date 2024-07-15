@@ -1,50 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\",
+  "WorkspaceRootPath": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\allyza\\desktop\\quea\\studentportal\\studentportal\\studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\allyza\\desktop\\quea\\studentportal\\studentportal\\studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\allyza\\desktop\\quea\\studentportal\\studentportal\\studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\allyza\\desktop\\quea\\studentportal\\studentportal\\studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\allyza\\desktop\\quea\\studentportal\\studentportal\\studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\allyza\\desktop\\quea\\studentportal\\studentportal\\studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\allyza\\desktop\\quea\\studentportal\\studentportal\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\allyza\\desktop\\quea\\studentportal\\studentportal\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\allyza\\desktop\\quea\\studentportal\\studentportal\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\allyza\\desktop\\quea\\studentportal\\studentportal\\studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,12 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 260,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -74,41 +66,32 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bootstrap-grid.css",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "RelativeDocumentMoniker": "StudentPortal.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "RelativeToolTip": "StudentPortal.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "ViewState": "AQIAAKIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-15T09:06:27.136Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwBsAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-15T08:10:57.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "StudentPortal.Web\\Controllers\\StudentsController.cs",
               "ViewState": "AQIAAD8AAAAAAAAAAAAowDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,63 +100,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "DocumentMoniker": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\List.cshtml",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
               "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAABwAAACwYmZmZiYwwCcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-12T07:02:35.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
               "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T06:51:35.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T06:51:35.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
               "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAACkAAACANDMzMzMbwDEAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-12T08:10:19.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Program.cs",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Program.cs",
               "RelativeToolTip": "StudentPortal.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T06:57:29.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T06:57:29.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\appsettings.json",
               "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\appsettings.json",
               "RelativeToolTip": "StudentPortal.Web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -181,11 +162,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "AddStudentViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
               "RelativeToolTip": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
               "ViewState": "AQIAAAQAAACgzMzMzKwzwBAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,24 +174,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
               "RelativeToolTip": "StudentPortal.Web\\Models\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T10:51:06.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T10:51:06.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\allyza\\Desktop\\quea\\StudentPortal\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAIAAADAMjMzMzMbwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
