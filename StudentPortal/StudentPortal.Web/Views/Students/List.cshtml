@@ -10,38 +10,39 @@
 
 <div class="row mb-5">
     <div class="col">
-        <a class="btn btn-primary" asp-controller="Students" asp-action="Add">Add Student</a>
+        <a class="btn btn-outline-success" asp-controller="Students" asp-action="Add">Add Student</a>
     </div>
 </div>
 
-
-<table class="table">
-    <thead>
-        <tr>
-            <th>Id</th>
-            <th>Name</th>
-            <th>Email</th>
-            <th>Phone</th>
-            <th>Program</th>
-            <th>Action</th>
-        </tr>
-    </thead>
-
-    <tbody>
-        @foreach (var student in Model)
-        {
+<div class="table-responsive">
+    <table class="table table-striped table-hover table-bordered">
+        <thead>
             <tr>
-                <td>@student.Id</td>
-                <td>@student.Name</td>
-                <td>@student.Email</td>
-                <td>@student.Phone</td>
-                <td>@student.Program</td>
-                <td>
-                    <a class="btn btn-primary" asp-controller="Students" asp-action="Edit" asp-route-id="@student.Id">Edit</a>
-                    <a class="btn btn-danger ms-3" asp-controller="Students" asp-action="Delete" asp-route-id="@student.Id">Delete</a>
-                </td>
-                
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Program</th>
+                <th>Action</th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+
+        <tbody>
+            @foreach (var student in Model)
+            {
+                <tr class="align-middle">
+                    <td>@student.Id</td>
+                    <td>@student.Name</td>
+                    <td>@student.Email</td>
+                    <td>@student.Phone</td>
+                    <td>@student.Program</td>
+                    <td>
+                        <a class="btn btn-outline-primary btn-sm" asp-controller="Students" asp-action="Edit" asp-route-id="@student.Id">Edit</a>
+                        <a class="btn btn-outline-danger btn-sm" asp-controller="Students" asp-action="Delete" asp-route-id="@student.Id">Delete</a>
+                    </td>
+                
+                </tr>
+            }
+        </tbody>
+        </table>
+</div>
