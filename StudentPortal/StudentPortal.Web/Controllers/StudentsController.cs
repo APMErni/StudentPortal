@@ -85,7 +85,6 @@ namespace StudentPortal.Web.Controllers
         }
 
         // Delete
-        
         public async Task<IActionResult> Delete(Student viewModel)
         {
             var student = await dbContext.Students.AsNoTracking().FirstOrDefaultAsync(x => x.Id == viewModel.Id);
