@@ -24,6 +24,10 @@ namespace StudentPortal.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Add(AddStudentViewModel viewModel)
         {
+            if (!ModelState.IsValid)
+            {
+                return View(viewModel);
+            }
             var student = new Student
             {
                 Name = viewModel.Name,
@@ -48,7 +52,6 @@ namespace StudentPortal.Web.Controllers
             return View(students);
         }
 
-
         // Update: edit existing records 
         [HttpGet]
         public async Task<IActionResult> Edit(Guid id)
@@ -63,6 +66,11 @@ namespace StudentPortal.Web.Controllers
         {
             var student = await dbContext.Students.FindAsync(viewModel.Id);
 
+            if (!ModelState.IsValid)
+            {
+                return View(viewModel);
+            }
+
             if (student is not null)
             {
                 student.Name = viewModel.Name;
@@ -72,13 +80,22 @@ namespace StudentPortal.Web.Controllers
 
                 await dbContext.SaveChangesAsync();
             }
-
             // pass it back to the list and the controller is Students
             return RedirectToAction("List", "Students");
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Details(Guid id)
+        {
+            var student = await dbContext.Students.FindAsync(id);
+
+            return View(student);
+        }
+
+       
+
+
         // Delete
-        [HttpPost, HttpGet]
         public async Task<IActionResult> Delete(Student viewModel)
         {
             var student = await dbContext.Students.AsNoTracking().FirstOrDefaultAsync(x => x.Id == viewModel.Id);
@@ -88,7 +105,7 @@ namespace StudentPortal.Web.Controllers
                 dbContext.Students.Remove(viewModel);
                 await dbContext.SaveChangesAsync();
                 //return View(student);
-                //return RedirectToAction("List", "Students");
+                return RedirectToAction("List", "Students");
             }
 
             //return View(student);

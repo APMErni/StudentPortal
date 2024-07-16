@@ -16,6 +16,8 @@ a[b-ymun5fysjc] {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+  padding:12px 16px;
+  cursor: pointer;
 }
 
 .nav-pills .nav-link.active[b-ymun5fysjc], .nav-pills .show > .nav-link[b-ymun5fysjc] {
