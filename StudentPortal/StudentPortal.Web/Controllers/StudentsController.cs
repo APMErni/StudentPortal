@@ -84,6 +84,17 @@ namespace StudentPortal.Web.Controllers
             return RedirectToAction("List", "Students");
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Details(Guid id)
+        {
+            var student = await dbContext.Students.FindAsync(id);
+
+            return View(student);
+        }
+
+       
+
+
         // Delete
         public async Task<IActionResult> Delete(Student viewModel)
         {
