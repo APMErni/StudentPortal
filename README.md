@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Contact](#contact)
 
 ## Introduction
 The **Student Portal** is a web application that allows users to create, read, update, and delete records of students. The application is designed to be responsive and works well on different devices.
