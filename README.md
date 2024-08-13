@@ -74,3 +74,7 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request.
+
+## Contact
+
+If you have any questions or suggestions, feel free to open an issue or contact me through the GitHub repository.
