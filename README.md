@@ -28,7 +28,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/student-portal.git
+    git clone [https://github.com/your-username/student-portal.git](https://github.com/APMErni/StudentPortal.git)
     cd student-portal
     ```
 
