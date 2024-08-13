@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\boot camp\\documents\\bootcamp\\student_portal\\studentportal\\studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FE1628C-7922-4C68-A7F7-E4805ABF6E06}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 260,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,24 +78,36 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-16T03:45:04.696Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeToolTip": "StudentPortal.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T09:08:36.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:51:06.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
@@ -99,12 +115,11 @@
               "RelativeToolTip": "StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T02:22:51.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T02:22:51.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Details.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Details.cshtml",
@@ -112,12 +127,11 @@
               "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Details.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T01:58:39.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T01:58:39.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
@@ -125,12 +139,11 @@
               "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAADwAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T06:51:35.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T06:51:35.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
@@ -138,12 +151,35 @@
               "RelativeToolTip": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-15T08:10:57.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T08:10:57.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T07:02:35.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-16T03:45:04.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\StudentsController.cs",
@@ -151,25 +187,11 @@
               "RelativeToolTip": "StudentPortal.Web\\Controllers\\StudentsController.cs",
               "ViewState": "AQIAAEwAAAAAAAAAAAAswFcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T05:14:54.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T05:14:54.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
-              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\List.cshtml",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
-              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\List.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T07:02:35.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
@@ -177,12 +199,11 @@
               "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAADIAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T08:10:19.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T08:10:19.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AddStudentViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
@@ -190,25 +211,11 @@
               "RelativeToolTip": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T10:51:32.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T10:51:32.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
-              "RelativeToolTip": "StudentPortal.Web\\Models\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T10:51:06.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Boot Camp\\Documents\\bootcamp\\student_portal\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
@@ -216,8 +223,7 @@
               "RelativeToolTip": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAIAAADAMjMzMzMbwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T10:48:10.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T10:48:10.951Z"
             }
           ]
         }
